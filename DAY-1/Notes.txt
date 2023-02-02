@@ -1,0 +1,5 @@
+DAY 1
+To Do
+1. Binary Search  - Concept (Naive and Recursion)
+2. Kadane's Algorithm
+3. Binary Search Problem - Easy
